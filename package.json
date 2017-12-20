@@ -16,7 +16,7 @@
   "dependencies": {
     "iview": "^2.7.4",
     "moment": "^2.20.0",
-    "vue": "^2.5.11",
+    "vue": "^2.5.13",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
